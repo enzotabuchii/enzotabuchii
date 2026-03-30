@@ -9,7 +9,7 @@
 
 ### 🧠 Linguagens
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logo)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
 
