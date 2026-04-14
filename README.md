@@ -39,5 +39,3 @@
 <div align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=enzotabuchii&theme=tokyonight" />
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enzotabuchii&langs_count=8)
