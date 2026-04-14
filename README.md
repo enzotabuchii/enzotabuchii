@@ -15,3 +15,5 @@
 ### ⚙️ Frameworks & Runtime
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)
 ![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat&logo=nestjs)
+
+![Snake animation](https://raw.githubusercontent.com/enzotabuchii/enzotabuchii/output/github-contribution-grid-snake.svg)
