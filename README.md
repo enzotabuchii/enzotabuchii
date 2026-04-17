@@ -15,11 +15,19 @@
 
 ## 💻 Tech
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,py,spring,nestjs,nodejs,prisma,postgres,mongodb,redis,git,github,azure,vscode,linux,vim,docker,aws,npm,idea,graphql&perline=5" alt="My Skills" />
-  </a>
-</p>
+* **⚙️ Back-end -** &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,java,spring,py,graphql" alt="Back-end" />
+<br>
+
+* **🌐 Front-end -** &nbsp; <img align="center" src="https://skillicons.dev/icons?i=html,css,js" alt="Front-end" />
+<br>
+
+* **🗄️ Bancos -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" alt="Bancos" />
+<br>
+
+* **☁️ DevOps -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=azure,docker,linux,aws" alt="Cloud" />
+<br>
+
+* **🛠️ Tools -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,idea,npm,vim" alt="Ferramentas" />
 
 ---
 
