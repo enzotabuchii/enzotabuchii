@@ -13,7 +13,7 @@
 
 ---
 
-## 💻 Tech
+## Tech
 
 * **⚙️ Back-end -** &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,java,spring,py,graphql,prisma" alt="Back-end" />
 <br>
@@ -21,7 +21,7 @@
 * **🌐 Front-end -** &nbsp; <img align="center" src="https://skillicons.dev/icons?i=html,css,js" alt="Front-end" />
 <br>
 
-* **🗄️ Bancos -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Bancos" />
+* **🗄️ Database -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Bancos" />
 <br>
 
 * **☁️ DevOps -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=azure,docker,linux,aws" alt="Cloud" />
@@ -31,7 +31,7 @@
 
 ---
 
-## 🎯 Áreas de Interesse
+## Interest Areas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
@@ -48,25 +48,13 @@
 
 ---
 
-## 📊 Minhas Estatísticas
+## GitHub Analystics
 
-<p align="center">
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api?username=enzotabuchii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-    alt="GitHub Stats"
-  />
-  <img 
-    height="160em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzotabuchii&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Top Languages"
-  />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enzotabuchii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enzotabuchii&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<p align="center">
-  <img 
-    height="160em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=enzotabuchii&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=enzotabuchii&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00ADD8&custom_title=Contribution%20Activity" />
+</div>
