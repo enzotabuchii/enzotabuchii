@@ -1,7 +1,5 @@
 <h1 align="center">Olá, eu sou o Tabuchi!</h1>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/enzo-seiji-delgado-tabuchi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,19 +13,19 @@
 
 ## Tech
 
-* **⚙️ Back-end -** &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,java,spring,py,graphql,prisma" alt="Back-end" />
+* **BackEnd -** &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,java,spring,py,graphql,prisma" alt="Back-end" />
 <br>
 
-* **🌐 Front-end -** &nbsp; <img align="center" src="https://skillicons.dev/icons?i=html,css,js" alt="Front-end" />
+* **FrontEnd -** &nbsp; <img align="center" src="https://skillicons.dev/icons?i=html,css,js" alt="Front-end" />
 <br>
 
-* **🗄️ Database -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Bancos" />
+* **Database -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Bancos" />
 <br>
 
-* **☁️ DevOps -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=azure,docker,linux,aws" alt="Cloud" />
+* **DevOps -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=azure,docker,linux,aws" alt="Cloud" />
 <br>
 
-* **🛠️ Tools -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,idea,npm,vim,postman" alt="Ferramentas" />
+* **Tools -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,idea,npm,vim,postman" alt="Ferramentas" />
 
 ---
 
