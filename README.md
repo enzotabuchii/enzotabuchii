@@ -11,48 +11,60 @@
 
 ---
 
-## Tech
-
-* **BackEnd -** &nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,java,spring,py,graphql,prisma" alt="Back-end" />
-<br>
-
-* **FrontEnd -** &nbsp; <img align="center" src="https://skillicons.dev/icons?i=html,css,js" alt="Front-end" />
-<br>
-
-* **Database -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" alt="Bancos" />
-<br>
-
-* **DevOps -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=azure,docker,linux,aws" alt="Cloud" />
-<br>
-
-* **Tools -** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img align="center" src="https://skillicons.dev/icons?i=git,github,vscode,idea,npm,vim,postman" alt="Ferramentas" />
-
----
-
-## Interest Areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/Inteligência%20Artificial-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="IA" />
-  <img src="https://img.shields.io/badge/Automação-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="Automação" />
-  <img src="https://img.shields.io/badge/Robótica-E34F26?style=for-the-badge&logo=ros&logoColor=white" alt="Robótica" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/enzotabuchii/enzotabuchii/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## GitHub Analystics
+## Tecnologias & Ferramentas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=enzotabuchii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=enzotabuchii&layout=compact&theme=tokyonight&hide_border=true" />
+
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,java,spring,py,graphql,prisma,html,css,vitest,react&perline=15" alt="Linguagens e Frameworks" />
+  </a>
+
+  <br />
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,aws,azure,docker,linux&perline=10" alt="Bancos e Cloud" />
+  </a>
+  
+  <br />
+  
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,idea,vim,postman,androidstudio,discord,pycharm,gcp,replit&perline=15" alt="Ferramentas" />
+  </a>
+
+  <br />
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=arduino,opencv&perline=15" alt="IA/Robótica" />
+  </a>
+
 </div>
 
+---
+
+## Estatísticas do GitHub
+
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=enzotabuchii&theme=react-dark&bg_color=0D1117&hide_border=true&area=true&color=00ADD8&custom_title=Contribution%20Activity" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=enzotabuchii&show_icons=true&theme=merko&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=enzotabuchii&layout=compact&theme=tokyonight&hide=html,css" alt="Linguagens mais usadas" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=enzotabuchii&theme=dark" alt="Sequência de Commits" />
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/enzotabuchii/enzotabuchii/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/enzotabuchii/enzotabuchii/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/enzotabuchii/enzotabuchii/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+  <sub>Desenvolvido por Enzo Seiji Delgado Tabuchi</sub>
 </div>
