@@ -29,7 +29,7 @@
   <br />
   
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,idea,vim,postman,androidstudio,discord,pycharm,gcp,replit&perline=15" alt="Ferramentas" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vscodium,idea,postman,androidstudio,pycharm,gcp,replit&perline=15" alt="Ferramentas" />
   </a>
 
   <br />
