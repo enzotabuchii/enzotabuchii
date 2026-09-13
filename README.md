@@ -1,14 +1,7 @@
 <div align="center">
 
 <!--BANNER-->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:046A38,40:046A38,100:DA291C&height=220&section=header&text=Tabuchi&fontSize=70&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Developer%20%7C%20Computer%20Science%20%7C%20Robotics&descAlignY=58&descSize=18" width="100%"/>
-<br>
-
-# Olá, eu sou o Tabuchi!
-
-**Desenvolvedor de software apaixonado por tecnologia, sistemas, ciência da computação e robótica.**
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:046A38,40:046A38,100:DA291C&height=150&section=header&text=Tabuchi&fontSize=40&fontColor=FFFFFF&fontAlignY=35" width="100%"/>
 
 <a href="https://www.linkedin.com/in/enzo-seiji-delgado-tabuchi">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -22,45 +15,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Building+software+%F0%9F%92%BB;Exploring+robotics+%F0%9F%A4%96;Learning+every+day+%F0%9F%A7%A0;From+Brazil+%F0%9F%87%A7%F0%9F%87%B7+to+Portugal+%F0%9F%87%B5%F0%9F%87%B9" />
-
-</div>
-
----
-
-<div align="center">
-
-## Sobre mim
-
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### Desenvolvimento
-
-Sou desenvolvedor interessado em construir sistemas completos, explorando tanto **backend** quanto **frontend**, APIs, bancos de dados e arquitetura de software.
-
-Gosto de transformar ideias em projetos reais e entender como cada camada de um sistema funciona.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 Tecnologia & Robótica
-
-Também tenho interesse em **robótica, visão computacional, inteligência artificial e sistemas embarcados**.
-
-A ideia é conectar software, hardware e sistemas inteligentes para criar coisas que realmente funcionem no mundo físico.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C853&center=true&vCenter=true&width=600&lines=Enzo+Seiji+Delgado+Tabuchi;Robotics+and+Back-End" alt="Typing SVG" />
 
 </div>
 
